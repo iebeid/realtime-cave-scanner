@@ -26,6 +26,6 @@ My pipeline starts with placing an object on a turntable that is positioned adja
 1.	CRUZ-NEIRA, C., SANDIN, D. J., & DEFANTI, T. A. (1993). Surround- screen projection-based virtual reality: the design and implementation of the CAVE. SIGGRAPH 1993 Proceedings.
 2.	CRUZ-NEIRA, C., Morillo, P., Hartling, P., Bierbaum, A. implementing immersive clustering with VR juggler. ICCSA'05 Proceedings of the 2005 international conference on Computational Science and Its Applications - Volume Part III Pages 1119-1128.
 3.	Mark Bolas*, Ashok Kuruvilla, Shravani Chintalapudi, Fernando Rabelo, Vangelis Lympouridis, Christine Barron, Evan Suma, Catalina Matamoros, Cristina Brous, Alicja Jasina, Yawen Zheng, Creating Near-Field VR Using Stop Motion Characters and a Touch of Light-Field Rendering. SIGGRAPH 2015 Poster Proceedings.
-4.;	Intel Real Sense Technology. http://www.intel.com/content/www/us/en/architecture-and-technology/realsense-depth-camera.html
-|[5]	Leap Motion Sensor. https://www.leapmotion.com/
-|[6]	P. Cignoni, M. Callieri, M. Corsini, M. Dellepiane, F. Ganovelli, G. Ranzugli, MeshLab: an Open-Source Mesh Processing Tool. |Eurographics Italian Chapter Conference (2008)
+4.	Intel Real Sense Technology. http://www.intel.com/content/www/us/en/architecture-and-technology/realsense-depth-camera.html
+5.	Leap Motion Sensor. https://www.leapmotion.com/
+6.	P. Cignoni, M. Callieri, M. Corsini, M. Dellepiane, F. Ganovelli, G. Ranzugli, MeshLab: an Open-Source Mesh Processing Tool. Eurographics Italian Chapter Conference (2008)

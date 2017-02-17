@@ -1,0 +1,17 @@
+﻿Build started 4/12/2016 5:55:01 PM.
+     1>Project "D:\sources\Visual Studio 2013\Projects\TestVrJuggler\TestVrJuggler\TestVrJuggler.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /ID:\dev\nanogui\nanogui\ext\eigen /ID:\dev\nanogui\nanogui\include /I"C:\Program Files (x86)\Intel\RSSDK\include" /ID:\dev\BULLET_PHYSICS\include /I"D:\dev\SOIL\Simple OpenGL Image Library\src" /ID:\dev\assimp\include /ID:\dev\glm\include /I"D:\dev\xml-cppdom\include" /ID:\dev\boost_1_55_0 /ID:\dev\gmtl\include /ID:\dev\glew\include /ID:\dev\vrjuggler\include /Zi /nologo /W3 /WX- /sdl /Ox /Oi /GL /D WIN32 /D HAVE_DECLSPEC_THREAD /D _CRT_SECURE_NO_WARNINGS /D DEBUG /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"D:\sources\Visual Studio 2013\Projects\TestVrJuggler\TestVrJuggler\x64\Release\\" /Fd"D:\sources\Visual Studio 2013\Projects\TestVrJuggler\TestVrJuggler\x64\Release\vc120.pdb" /Gd /TP /wd4251 /wd4290 /wd4101 /wd4267 /wd4275 /wd4305 /errorReport:prompt main.cpp App.cpp
+         main.cpp
+         App.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\sources\Visual Studio 2013\Projects\TestVrJuggler\TestVrJuggler\x64\Release\TestVrJuggler.exe" /NOLOGO /LIBPATH:D:\dev\nanogui\build\Release /LIBPATH:D:\dev\BULLET_PHYSICS\lib /LIBPATH:D:\dev\assimp\lib /LIBPATH:"D:\dev\soil\Simple OpenGL Image Library\projects\VC9\x64\Release" /LIBPATH:"D:\dev\xml-cppdom\lib64" /LIBPATH:"D:\dev\boost_1_55_0\lib64-msvc-12.0" /LIBPATH:D:\dev\glew\lib /LIBPATH:"C:\Program Files (x86)\Intel\RSSDK\lib\x64" /LIBPATH:D:\dev\vrjuggler\lib glew32.lib opengl32.lib SOIL.lib "assimp-vc120-mtd.lib" "gadget-2_1_29.lib" "jccl-1_5_1.lib" "sonix-1_5_2.lib" "vpr-2_3_5.lib" "vrj_ogl-3_1_8.lib" "vrj-3_1_8.lib" Bullet3OpenCL_clew.lib Bullet3Dynamics.lib Bullet3Collision.lib Bullet3Geometry.lib BulletSoftBody.lib BulletDynamics.lib BulletCollision.lib LinearMath.lib Bullet3Common.lib libpxc.lib nanogui.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:LIBCMT /NODEFAULTLIB:MSVCRTD /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\sources\Visual Studio 2013\Projects\TestVrJuggler\TestVrJuggler\x64\Release\TestVrJuggler.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\sources\Visual Studio 2013\Projects\TestVrJuggler\TestVrJuggler\x64\Release\TestVrJuggler.lib" /MACHINE:X64 "D:\sources\Visual Studio 2013\Projects\TestVrJuggler\TestVrJuggler\x64\Release\main.obj"
+         "D:\sources\Visual Studio 2013\Projects\TestVrJuggler\TestVrJuggler\x64\Release\App.obj"
+         Generating code
+         Finished generating code
+         TestVrJuggler.vcxproj -> D:\sources\Visual Studio 2013\Projects\TestVrJuggler\TestVrJuggler\x64\Release\TestVrJuggler.exe
+     1>Done Building Project "D:\sources\Visual Studio 2013\Projects\TestVrJuggler\TestVrJuggler\TestVrJuggler.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:12.76

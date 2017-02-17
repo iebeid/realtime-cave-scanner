@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LocalDebuggerCommandArguments>"D:\dev\vrjuggler\share\vrjuggler\data\configFiles\standalone.jconf"</LocalDebuggerCommandArguments>
+    <LocalDebuggerEnvironment>MESH_PATH=D:\projects\Visual Studio 2013\Projects\TestVrJuggler\TestVrJuggler\mesh
+MESH_FILE=mesh.obj
+JCCL_CFG_PATH=S:\tools\vrjuggler\share\vrjuggler\data\configFiles
+JCCL_DEFINITION_PATH=S:\tools\vrjuggler\share\vrjuggler\data\definitions
+VPR_DEBUG_NFY_LEVEL=1
+VPR_DEBUG_ENABLE=1
+PATH=D:\dev\bin;%PATH%
+$(LocalDebuggerEnvironment)</LocalDebuggerEnvironment>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,18 @@
+﻿Build started 2/1/2016 11:04:37 AM.
+     1>Project "D:\source\Visual Studio 2013\Projects\RealSenseScanner\RealSenseScanner\RealSenseScanner.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /ID:\dev\glew\include /I"D:\dev\SOIL\Simple OpenGL Image Library\src" /ID:\dev\glm\include /ID:\dev\nanogui\nanogui\include /ID:\dev\nanogui\nanogui\ext\eigen /ID:\dev\assimp\include /ID:\dev\boost_1_55_0 /ID:\programs\Intel\RSSDK\include /Zi /nologo /W3 /WX- /sdl /Ox /Oi /GL /D WIN32 /D HAVE_DECLSPEC_THREAD /D _CRT_SECURE_NO_WARNINGS /D DEBUG /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"D:\source\Visual Studio 2013\Projects\RealSenseScanner\RealSenseScanner\x64\Release\\" /Fd"D:\source\Visual Studio 2013\Projects\RealSenseScanner\RealSenseScanner\x64\Release\vc120.pdb" /Gd /TP /wd4251 /wd4290 /wd4101 /wd4267 /wd4275 /errorReport:prompt main.cpp util_render.cpp
+         main.cpp
+         util_render.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\source\Visual Studio 2013\Projects\RealSenseScanner\RealSenseScanner\x64\Release\RealSenseScanner.exe" /NOLOGO /LIBPATH:D:\dev\glew\lib /LIBPATH:"D:\dev\soil\Simple OpenGL Image Library\projects\VC9\x64\Release" /LIBPATH:D:\dev\nanogui\build\Release /LIBPATH:D:\dev\assimp\lib /LIBPATH:"D:\dev\boost_1_55_0\lib64-msvc-12.0" /LIBPATH:D:\programs\Intel\RSSDK\lib\x64 glew32.lib opengl32.lib libpxc.lib SOIL.lib "assimp-vc120-mtd.lib" nanogui.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:LIBCMT /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\source\Visual Studio 2013\Projects\RealSenseScanner\RealSenseScanner\x64\Release\RealSenseScanner.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\source\Visual Studio 2013\Projects\RealSenseScanner\RealSenseScanner\x64\Release\RealSenseScanner.lib" /MACHINE:X64 "D:\source\Visual Studio 2013\Projects\RealSenseScanner\RealSenseScanner\x64\Release\main.obj"
+         "D:\source\Visual Studio 2013\Projects\RealSenseScanner\RealSenseScanner\x64\Release\util_render.obj"
+         Generating code
+     1>d:\source\visual studio 2013\projects\realsensescanner\realsensescanner\main.cpp(199): warning C4715: 'scanner' : not all control paths return a value
+         Finished generating code
+         RealSenseScanner.vcxproj -> D:\source\Visual Studio 2013\Projects\RealSenseScanner\RealSenseScanner\x64\Release\RealSenseScanner.exe
+     1>Done Building Project "D:\source\Visual Studio 2013\Projects\RealSenseScanner\RealSenseScanner\RealSenseScanner.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.64
